@@ -1,0 +1,47 @@
+.btnTambah {
+      position: fixed;
+      bottom: 1em;
+      right: 2em;
+    }
+    .nomargin{
+      margin: 0.5em 0em !important;
+    }
+    .content-wrapper {
+      /*display: none;*/
+    }
+    .kecil {
+      padding: 0;
+      margin: 0;
+      font-size: 1.2em;
+      color: #000;
+      font-weight: normal;
+      letter-spacing: 0.1em;
+    }
+    .kecil td {
+      padding: 0;
+      margin: 0;
+    }
+
+    .daftarcaleg {
+      font-size: 1em;
+      padding-left: 10%;
+    }
+    .daftarcaleg li {
+      margin-bottom: 3%;
+      padding: 3% 0; 
+      border-bottom: 1px solid #efefef;
+    }
+    .table-tps{
+
+    }
+    .table-tps td {
+      padding: 0;
+    }
+    .table-tps input[type='number']{
+      padding: 0px 0px;
+      margin: 0;
+      width: 60px;
+      height: 25px;
+      text-align: center;
+      float: right;
+    }
